@@ -10,4 +10,4 @@ function DUI.Draw(itemname)
  	return item
 end
 
-DUI.Load("Main/Cursor")
+--DUI.Load("Main/Cursor")
