@@ -6,3 +6,5 @@ Cursor.Size = Vector2.new(10,10)
 Cursor.Visible = true
 Cursor.Color = Color3.fromRGB(85, 85, 85)
 Cursor.Position = Vector2.new(mouse.X, mouse.Y)
+
+DUI.test()
