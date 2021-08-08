@@ -1,3 +1,5 @@
+print"Made by DeLuxe"
+
 DUI = {}
 
 function DUI.load(name)
