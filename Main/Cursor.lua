@@ -1,3 +1,5 @@
+print("Cursor loaded")
+
 DUI.Cursor = DUI.Draw("Square") --Will make a triangle later
 DUI.Cursor.Filled = true
 DUI.Cursor.Size = Vector2.new(10,10)

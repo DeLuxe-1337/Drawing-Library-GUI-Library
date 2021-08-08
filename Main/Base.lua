@@ -1,3 +1,5 @@
+print("Base loaded")
+
 AllControls = {}
 
 getgenv().player = game.Players.LocalPlayer
