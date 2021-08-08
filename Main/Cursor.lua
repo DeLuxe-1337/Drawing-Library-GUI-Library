@@ -9,6 +9,6 @@ Cursor.Position = Vector2.new(mouse.X, mouse.Y)
 
 getgenv().Cursor = Cursor
 
-RunService.RenderStepped:Connect(function(step) --Just for now gonna change later
+RS.RenderStepped:Connect(function(step) --Just for now gonna change later
     Cursor.Position = Vector2.new(mouse.X, mouse.Y)
 end)
