@@ -4,3 +4,5 @@
 [0m2021.08.08 10:40:38 WARN  no build tool detected in workspace 'C:\Users\rragt\Lua\Drawing Library GUI Library'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
 Aug 08, 2021 11:01:15 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
+Aug 08, 2021 11:14:42 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
