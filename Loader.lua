@@ -8,5 +8,4 @@ end
 
 getgenv().DUI = DUI
 
-DUI.load("Main/test")
 DUI.load("Main/Base")
